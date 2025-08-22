@@ -28,6 +28,9 @@ public class Typecasting {
 
 //        System.out.println(3 * 6);
 
+//        int number = 'A';
+//        System.out.println(number);
+
         byte b = 42;
         char c = 'a';
         short s = 1024;
