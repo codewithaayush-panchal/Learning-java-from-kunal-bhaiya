@@ -30,12 +30,16 @@ public class Calculator {
                     ans = n1 * n2 ;
                 }
 
-                if ( op == '/')  if ( n2 != 0){
-                    ans = n1 / n2 ;
+                if ( op == '/') {
+                    if ( n2 != 0){
+                        ans = n1 / n2 ;
+                    }
                 }
 
-                if ( op == '%') if ( n2 != 0) {
-                    ans = n1 % n2 ;
+                if ( op == '%') {
+                    if ( n2 != 0) {
+                        ans = n1 % n2 ;
+                    }
                 }
 
 

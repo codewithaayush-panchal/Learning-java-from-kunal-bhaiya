@@ -24,6 +24,14 @@ public class Reversenum {
 //
 //        }
         // nice try
+        /*
+        I solved this prblm after a lot of time
+        so basically the 1st prblm is in line no. 17, i only had to divide the num with 1 not to take remainder
+        and the 2nd was i didn't break the loop that is why the loop was re-running result in giving 0000
+        even after the reverse number
+        I appreciate myself
+         */
+
 
 //        int num = 123456;
 //
