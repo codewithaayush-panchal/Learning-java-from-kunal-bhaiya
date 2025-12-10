@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Conditions and loops" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Switch statements + Nested case" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Function or Methods in java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/out" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
