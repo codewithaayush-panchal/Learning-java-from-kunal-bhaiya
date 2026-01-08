@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Interview Question/Binary Search Interview Question.iml" filepath="$PROJECT_DIR$/Binary Search Interview Question/Binary Search Interview Question.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary seach algorithms/Binary seach algorithms.iml" filepath="$PROJECT_DIR$/Binary seach algorithms/Binary seach algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Linear search algorithm/Linear search algorithm.iml" filepath="$PROJECT_DIR$/Linear search algorithm/Linear search algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstjava.iml" filepath="$PROJECT_DIR$/firstjava.iml" />
