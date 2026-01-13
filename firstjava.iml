@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Linear search algorithm" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Binary seach algorithms" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BInary search in 2D Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sorting" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
