@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Linear search algorithm/Linear search algorithm.iml" filepath="$PROJECT_DIR$/Linear search algorithm/Linear search algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings and String Builder/Strings and String Builder.iml" filepath="$PROJECT_DIR$/Strings and String Builder/Strings and String Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimeAndSpace complexity/TimeAndSpace complexity.iml" filepath="$PROJECT_DIR$/TimeAndSpace complexity/TimeAndSpace complexity.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstjava.iml" filepath="$PROJECT_DIR$/firstjava.iml" />
     </modules>
   </component>
