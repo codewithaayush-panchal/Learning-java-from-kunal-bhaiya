@@ -18,6 +18,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Recursion Lvl-1 Question" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursion Array Question" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursion Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sorting(Merge and quick)" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
