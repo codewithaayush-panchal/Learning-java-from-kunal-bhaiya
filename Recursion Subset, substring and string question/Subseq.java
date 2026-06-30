@@ -4,8 +4,8 @@ import java.util.Arrays;
 public class Subseq {
     public static void main(String[] args) {
 //        subseq("", "abc");
-//        System.out.println(subseq2("", "abc"));
-        System.out.println(subseqAscii2("", "abc"));
+        System.out.println(subseq2("", "abc"));
+//        System.out.println(subseqAscii2("", "abc"));
     }
 
     static void subseq(String p, String up) {

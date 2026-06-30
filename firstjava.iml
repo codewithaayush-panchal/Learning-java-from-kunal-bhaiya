@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Sorting(Merge and quick)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursion Subset, substring and string question" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Recursion-Permutation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BackTracking" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
