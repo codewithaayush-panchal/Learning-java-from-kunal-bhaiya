@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.List;
 
 public class Permutations {
     public static void main(String[] args) {
@@ -7,6 +8,7 @@ public class Permutations {
         System.out.println(ans);
 
         System.out.println(permutationsCount("", "abc"));
+
     }
 
     static void permutations(String p, String up) {

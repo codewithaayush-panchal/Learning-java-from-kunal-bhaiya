@@ -1,5 +1,5 @@
 
-public class Stream {
+public class    Stream {
     public static void main(String[] args) {
         skip("", "baccdah");
         System.out.println(skip2("baccdahavl"));
